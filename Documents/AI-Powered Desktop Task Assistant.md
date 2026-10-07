@@ -35,11 +35,11 @@ The project will support a limited number of selected applications rather than a
 
 1.   
     
-    ---
+    Vs Code
     
 2.   
     
-    ---
+    Microsoft word/excel/powerpoint
     
 3.   
     
@@ -68,7 +68,7 @@ The final application list and supported tasks will be selected based on technic
 ## 4. Screen Monitoring
 
 - The user selects a specific application/window to monitor.
-- The system monitors only the selected window.
+- The system monitors only the selected window via screen recording.
 - The system periodically captures relevant visual information from the selected window.
 - The system identifies the application being used.
 - Relevant information is extracted from the captured content.
@@ -198,8 +198,8 @@ When enabled:
 ### Frontend / Desktop Application
 
 - Electron.js
-- HTML
-- CSS
+- React.js
+- Tailwind CSS
 - JavaScript
 
 ### Backend
